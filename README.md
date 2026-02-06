@@ -75,3 +75,6 @@ DELTA PARTITION load
 - построения ELT-процессов
 - оптимизации SQL-запросов
 - анализа планов выполнения
+
+**Отчет за 2 месяца в SuperSet**<br>
+<img width="3014" height="1664" alt="image" src="https://github.com/user-attachments/assets/f0072150-dea4-41be-815c-92bd420593d2" />
